@@ -1,15 +1,16 @@
 # lxdcsu-Eyes-to-face-synthesis-dataset-processing
 ## Introduction
-<br><br>
+<br>
 This code is the eyes-to-face synthesis datasetprocessing. Eyes-to-face synthesis is a very interesting and meaningful research work, which can be applied in the fields of face reconstruction, archaeology and computer-aided design. At present, there is no public eyes-to-face dataset. To solve this problem, our team designed a scheme to obtain the dataset from the open face datasets CelebA [10] and LFW [11].
 ## Sample of eyes-to-face dataset
-<br><br>
+<br>
 This dataset is obtained after processing on the public face datasets. Further works are discussed in the following papers:<br> 1) EyesGAN: Synthesize human face from human eyes, <br>2) From eyes to face synthesis: a new approach for human-centered smart surveillance.<br><br><br>
 ![example](https://github.com/lxdcsu/lxdcsu-Eyes-to-face-synthesis-dataset-processing/blob/main/eye2face.png)
 
 
 
 ## Citation
+<br>
 If you find this useful, please cite our works as follows:<br>
 
 <br>@article{luo2020eyesgan,
@@ -32,7 +33,7 @@ If you find this useful, please cite our works as follows:<br>
   <br>publisher={IEEE}
 <br>}
 ## Reference
-<br><br>
+<br>
 [10] Z. Liu, P. Luo, X. Wang, X. Tang, Large-scale celebfaces attributes (celeba) dataset, Retrieved August 15 (2018) 2018.<br>
 [11] G.B. Huang, M. Mattar, T. Berg, E. Learned-Miller, Labeled faces in the wild, A database for studying face recognition in unconstrained environments (2008).
 
