@@ -4,7 +4,7 @@
 This code is used to process the eyes-to-face synthesis data. Eyes-to-face synthesis is a very interesting and meaningful research work, which can be applied in the fields of face reconstruction, archaeology and computer-aided design. At present, there is no public eyes-to-face dataset. To solve this problem, our team designed a scheme to obtain the dataset from the open face datasets CelebA [10] and LFW [11].
 
 ## Sample of eyes-to-face dataset
-This is a sample of the eyes-to-facedataset. Each data size is 512*256, with the extracted eyes on the left and the corresponding original face on the right. Further works are discussed in the following papers:<br> 1) EyesGAN: Synthesize human face from human eyes, <br> 2) From eyes to face synthesis: a new approach for human-centered smart surveillance. 
+This is a sample of the eyes-to-face dataset. Each data size is 512*256, with the extracted eyes on the left and the corresponding original face on the right. Further works are discussed in the following papers:<br> 1) EyesGAN: Synthesize human face from human eyes, <br> 2) From eyes to face synthesis: a new approach for human-centered smart surveillance. 
 ![Image text](https://github.com/lxdcsu/Eyes-to-face-synthesis-dataset-processing/blob/main/eyes2face.png)
 
 ## Citation
