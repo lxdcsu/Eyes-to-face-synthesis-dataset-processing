@@ -5,7 +5,7 @@ This code is used to process the eyes-to-face synthesis data. Eyes-to-face synth
 
 ## Sample of eyes-to-face dataset
 This dataset is obtained after processing on the public face datasets. Further works are discussed in the following papers:<br> 1) EyesGAN: Synthesize human face from human eyes, <br> 2) From eyes to face synthesis: a new approach for human-centered smart surveillance. 
-![Image text](https://github.com/lxdcsu/lxdcsu-Eyes-to-face-synthesis-dataset-processing/blob/main/eye2face.png)
+![Image text](https://github.com/lxdcsu/Eyes-to-face-synthesis-dataset-processing/blob/main/eyes2face.png)
 
 ## Citation
 
