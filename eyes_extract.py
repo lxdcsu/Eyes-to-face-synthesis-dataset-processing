@@ -4,9 +4,9 @@ import os
 import glob as gb
 from PIL import Image
 
-
+file_path = "/media/images"
 img_path = []
-for root, dirs, files in os.walk("img", topdown=False):
+for root, dirs, files in os.walk(file_path):
     for name in files:
         if name.endswith('.jpg'):
             print(os.path.join(root, name))
@@ -125,13 +125,3 @@ for path2 in img_path2:
             j+=1       
     else:
         j+=1
-#toImage = Image.new('RGBA', (110, 55))#创建新的图片
-#fromImage=open("0.jpg")
-#pt=(0,0)
-#toImage.paste(fromImage,pt)
-#toImage.save('00.jpg')  
-    
-#cv2.imshow('img',img)
-#cv2.imwrite("face_detected_1.jpg", img)
-#cv2.waitKey(0)
-#cv2.destroyAllWindows()
